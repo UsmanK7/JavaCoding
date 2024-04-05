@@ -5,7 +5,7 @@ import java.util.Scanner;
 public  class Main {
     public static <ff> void main(String[] args) {
 //        casting
-//        implicit casting this casting is done implicitly which is assigning larger values to smaller data type
+//        implicit casting this casting is done implicitly which is  assigning larger values to smaller data type
 //
 //        int a = 10;
 //        double b = 15.5;
